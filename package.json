@@ -1,0 +1,27 @@
+{
+  "name": "roman-numerals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt karma:unit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akramDev/roman-numerals.git"
+  },
+  "author": "akram moncer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akramDev/roman-numerals/issues"
+  },
+  "homepage": "https://github.com/akramDev/roman-numerals#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-karma": "^2.0.0",
+    "jasmine-core": "^2.4.1",
+    "karma": "^0.13.22",
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-jasmine": "^1.0.2"
+  }
+}
